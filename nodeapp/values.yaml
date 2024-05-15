@@ -32,7 +32,7 @@ podAnnotations: {}
 podLabels: {}
 
 podSecurityContext: {}
-  # fsGroup: 2000
+  # fsGroup: 20000
 
 securityContext: {}
   # capabilities:
